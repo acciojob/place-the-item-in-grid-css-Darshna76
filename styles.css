@@ -4,12 +4,12 @@
 	display:grid;
 	grid-template-columns: repeat(2,100px);
 	background-color:red;
-	width:400px;
+	width:200px;
 }
-.item{
+/* .item{
 background-color:orange;
 	padding:20px;
 	margin:20px;
 	
 	
-}
+} */
